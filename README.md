@@ -27,6 +27,7 @@ print(b)
 ```
 ## Sample Input and Output:
 ![norm1](input.jpg)
+
 ![norm1](2-norm.png)
 
 ## Result
