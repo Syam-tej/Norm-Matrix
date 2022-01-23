@@ -15,8 +15,8 @@ To write a program to find the 2-norm of the matrix and display the result in tw
 ```
 '''
 Program to find 2-norm of a matrix.
-Developed by: S.ABHISHEK
-RegisterNumber: 21004552
+Developed by: P.SYAM TEJ
+RegisterNumber: 21002938
 '''
 import numpy as np
 n=np.array(eval(input()))
